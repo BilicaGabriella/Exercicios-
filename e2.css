@@ -1,0 +1,37 @@
+
+h1 {
+    color: rgb(248, 61, 92);
+}
+h2 {
+    color: rgb(141, 65, 141);
+}
+h3 {
+    color: rgb(141, 65, 141);
+}
+p {
+    color: rgb(145, 0, 84);
+}
+
+img.normal {
+    float: left;
+    height: 300px;
+    width: 300px;
+  }
+  img.alta {
+    float: left;
+    height: 420px;
+    width: 300px;
+  }
+  h1 {
+    border-bottom-style: inset;
+  }
+  pre {
+    font-size: 1.2em;
+  }
+
+  .oculta {
+    display: none;
+  }
+  .exibe {
+    display: inline;
+  }
